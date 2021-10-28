@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_starter_app/src/services/local/navigation_service.dart';
+import 'package:flutter_single_line/src/services/local/navigation_service.dart';
 
 class SplashView extends StatelessWidget {
   @override

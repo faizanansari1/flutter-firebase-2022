@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_starter_app/src/base/utils/Constants.dart';
-import 'package:flutter_starter_app/src/services/local/navigation_service.dart';
-import 'package:flutter_starter_app/src/views/splash/splash_view.dart';
+import 'package:flutter_single_line/src/base/utils/Constants.dart';
+import 'package:flutter_single_line/src/services/local/navigation_service.dart';
+import 'package:flutter_single_line/src/views/splash/splash_view.dart';
 
 class AppView extends StatelessWidget {
   // This widget is the root of your application.

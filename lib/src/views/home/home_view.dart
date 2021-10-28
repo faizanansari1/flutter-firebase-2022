@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_starter_app/src/views/home/home_view_model.dart';
+import 'package:flutter_single_line/src/views/home/home_view_model.dart';
 import 'package:stacked/stacked.dart';
 
 class HomeView extends StatelessWidget {
