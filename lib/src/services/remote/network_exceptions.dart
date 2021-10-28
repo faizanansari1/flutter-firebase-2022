@@ -88,6 +88,7 @@ abstract class NetworkExceptions with _$NetworkExceptions {
               networkExceptions = NetworkExceptions.sendTimeout();
               break;
             case DioErrorType.other:
+              // ignore: todo
               // TODO: Handle this case.
               break;
           }
