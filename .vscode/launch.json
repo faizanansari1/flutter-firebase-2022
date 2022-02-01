@@ -23,7 +23,8 @@
       "flutterMode": "debug",
       "args": [
           "--flavor",
-          "dev"
+          "dev",
+        "--no-sound-null-safety",
         ]
     },
     {
@@ -34,7 +35,9 @@
       "flutterMode": "release",
       "args": [
           "--flavor",
-          "dev"
+          "dev",
+        "--no-sound-null-safety",
+
         ]
     },
     {
@@ -45,7 +48,8 @@
       "flutterMode": "release",
       "args": [
           "--flavor",
-          "prod"
+          "prod",
+        "--no-sound-null-safety",
         ]
     }
   ]
